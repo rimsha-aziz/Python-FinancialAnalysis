@@ -1,0 +1,7 @@
+Financial Analysis
+------------------------
+Total months: 86
+Total volume: $38382578
+Average monthly change: $-2288.20
+Greatest increase: 1926159%Feb-2012
+Greatest decrease: -2196167%Sep-2013
